@@ -6,7 +6,7 @@ public class persegi {
 
     public static class hitung {
         int s = 5;
-        double keliling = s * s * s * s;
+        double keliling = 4*s;
 
         void hasilKeliling() {
             System.out.println("Keliling persegi adalah = " + keliling);

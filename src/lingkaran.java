@@ -7,10 +7,10 @@ public class lingkaran {
     public static class hitung {
         int r = 5;
         double pi = 3.14;
-        double luas = 2 * pi * r;
+        double keliling = 2 * pi * r;
 
     void hasillingkaran() {
-        System.out.println("Keliling Lingkaran Adalah = " + luas);
+        System.out.println("Keliling Lingkaran Adalah = " + keliling);
     }
     }
 }
